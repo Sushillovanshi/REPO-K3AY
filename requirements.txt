@@ -1,0 +1,8 @@
+# No external libraries are required for this project.
+# This project uses Python's built-in 'socket' module.
+# Python version 3.x is recommended.
+
+Why this is correct
+socket → built-in module, install nahi hota
+Recruiter ko clearly samajh aa jata hai 👍
+Professional GitHub practice ✔️
