@@ -30,6 +30,6 @@ Enter a target when prompted, for example:
 **scanme.nmap.org**
 
 **Disclaimer**
-This project is created strictly for educational purposes only. Do not scan systems without proper authorization.
+This project is created strictly for educational purposes only. Do not scan systems without proper authorization......
 
 
